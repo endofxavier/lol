@@ -1,0 +1,27 @@
+// Basic Information
+valentineName: "Jaleesa"                    // Your Valentine's name
+pageTitle: "Will You Be my bss slafe? 😀" // Browser tab title
+
+// Floating Background Elements
+floatingEmojis: {
+    hearts: ['💖', '💖', '💝', '💗', '💓'],  // Heart emojis in background
+    bears: ['🧸', '🐻']                       // Bear emojis in background
+}
+
+// Questions and Buttons
+questions: {
+    first: {
+        text: "do you want to be my slafe",                   // First question
+        yesBtn: "Yes",                             // Yes button text
+        noBtn: "No",                               // No button text
+        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+    },
+    second: {
+        text: "How much do you want to be my slafe?",          // Second question
+        startText: "This much!",                   // Text before percentage
+        nextBtn: "Next ❤️"                         // Next button text
+    },
+    third: {
+        text: "Will you be my Valentine...?",      // Final question
+        yesBtn: "Yes!",                            // Yes button text
+        noBtn: "No"                                // No button text
